@@ -1,6 +1,7 @@
 # threes
 
 This platform matches for people who wish to realize ideas.
+
 このプラットフォームは、アイデアを実現したいと考える人々のためをマッチングします。
 
 ## Overview
