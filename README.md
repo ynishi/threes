@@ -2,7 +2,7 @@
 
 This platform matches for people who wish to realize ideas.
 
-このプラットフォームは、アイデアを実現したいと考える人々のためをマッチングします。
+threesは、アイデアを実現するプラットフォームです。
 
 ## Overview
 
@@ -15,11 +15,8 @@ However, I thought that the above three people (not two) had their own ideas and
 
 Three people involved in the project can participate and cooperate on this platform with their respective stances.
 
-新しいアイデアを実現するとき、3つの要素が必要だと私は考えます。
+新しいアイデアは、アイデアを持ったプロデューサー、資金を提供するスポンサー、実現するクリエイターが必要です。
 
-その3人は、アイデアを持ったプロデューサー、資金を提供するスポンサー、実現するクリエイターです。
+今まで、プロジェクトは、作る人と買う人（資金を出す人）の2つに分けられていましたが、3者はそれぞれ独自の考えとスタンスを持っています。
 
-旧来、プロジェクトは、事業サイドと資金サイドの対立と協調とされてきました。
-しかし私は、上記の3者(2者ではなく)は、それぞれ独自の考えと利害関係をもつと考えました。
-
-このプラットフォームは、プロジェクトに関わる3者がそれぞれのスタンスで参加し、協調できます。
+このプラットフォームではそれぞれがそれぞれの立場で参加できます。
